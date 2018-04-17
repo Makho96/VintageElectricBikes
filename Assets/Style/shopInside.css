@@ -1,0 +1,455 @@
+.shopInside{
+    margin-top: 15vh;
+    overflow: hidden;
+}
+
+.Inside-image-holder{
+    display: block;
+    width: 100%;
+}
+
+.Inside-image-holder img{
+    display: inline-block;
+    width: 100%;
+}
+
+.product-text-holder{
+    padding-top: 70px;
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+}
+
+.product-text-holder h1{
+    display: inline-block;
+    width: 100%;
+    font-family: 'Gotham', sans-serif;
+    font-weight: bold;
+    font-size: 3.25rem;
+    color: #000000;
+}
+
+.product-text-holder p{
+    margin: 20px 0
+}
+.product-text-holder p,
+.product-text-holder ul li{
+    display: inline-block;
+    width: 100%;
+    font-family: "Gotham",sans-serif;
+    font-size: 0.875rem;
+    line-height: 1.37500rem;
+    color: #666666;
+    position: relative;
+}
+
+.product-text-holder ul{
+    display: inline-block;
+    width: 100%;
+}
+
+.product-text-holder ul li{
+    color: #999999;
+    margin-bottom: 25px;
+}
+
+.product-text-holder ul li:before{
+    content: "";
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    border-radius: 100%;
+    background-color: #999999;
+    position: absolute;
+    left: -25px;
+    top: 8px;
+}
+
+.Inside-item-price{
+    display: inline-block;
+    width: 100%;
+}
+
+.chosen-price{
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    border: 1px solid #dcdcdc;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.chosen-price > p{
+    display: inline-block;
+    width: 100%;
+    font-size: 1.62500rem;
+    line-height: 1.37500rem;
+    color: #333333;
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Gotham', sans-serif;
+}
+
+.chosen-price > span{
+    display: inline-block;
+    width: 100%;
+    font-size: 0.875rem;
+    line-height: 1.37500rem;
+    color: #999999;
+    text-align: center;
+    margin: 20px 0;
+    font-family: "Gotham", sans-serif;
+}
+
+.chosen-price .selected-type{
+    display: inline-block;
+    width: 100%;
+    border-top: 1px solid #dcdcdc;
+    background-color: #f5f5f5;
+    position: relative;
+    cursor: pointer;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.arrow-down{
+    position: absolute;
+}
+
+.selected-type p{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1.37500rem;
+    font-family: "Gotham Medium", sans-serif;
+    margin: 20px 0 20px 0;
+}
+
+.type-selector{
+    display: none;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    background: #ffffff;
+    z-index: 10000;
+}
+
+.product-types{
+    display: inline-block;
+    width: 100%;
+}
+
+.product-types ul{
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.product-types ul li{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 1.12500rem;
+    line-height: 1.37500rem;
+    font-family: "Gotham Medium", sans-serif;
+    border: 1px solid #e0e0e0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.inside-gallery{
+    margin-top: 20px;
+    display: inline-block;
+    width: 100%;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -ms-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    transition: opacity 500ms;
+}
+
+.inside-gallery img{
+    display: inline-block;
+    margin-right: 10px;
+    width: calc((100% - 20px)/3);
+    border-radius: 5px;
+    background-color: #e0e0e0;
+}
+
+.inside-gallery img:last-child{
+    margin-right: 0;
+}
+
+.inside-gallery button{
+    margin-top: 20px;
+    display: inline-block;
+    width: 100%;
+    border: none;
+    font-family: "Gotham Medium", sans-serif;
+    font-size: 0.875rem;
+    line-height: 1.37500rem;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 5px;
+    background-color: #f84e4e;
+    padding: 0.6rem 0;
+    cursor: pointer;
+}
+
+.inside-gallery button:focus{
+    outline: none;
+}
+
+
+.arrow-down{
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    position: absolute;
+    right: 9px;
+    top: 50%;
+    -webkit-transform: translate(0,-50%);
+    -moz-transform: translate(0,-50%);
+    -ms-transform: translate(0,-50%);
+    -o-transform: translate(0,-50%);
+    transform: translate(0,-50%);
+    -webkit-transition: rotate 500ms;
+    -moz-transition: rotate 500ms;
+    -ms-transition: rotate 500ms;
+    -o-transition: rotate 500ms;
+    transition: rotate 500ms;
+}
+
+.product-size{
+    margin-top: 10vh;
+    background: #000000;
+    padding: 50px 0 40px 0;
+}
+
+.size-text{
+    display: inline-block;
+    width: 100%;
+    padding-left: 14%;
+}
+
+.size-text h1{
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+    font-family: "Gotham", sans-serif;
+    font-size: 3.16875rem;
+    color: #ffffff;
+}
+
+.size-text p {
+    display: inline-block;
+    width: 100%;
+    font-family: "Gotham", sans-serif;
+    font-weight: lighter;
+    font-size: 1rem;
+    color: #ffffff;
+}
+
+.size-text p span{
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.choose-size{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.choose-size .size-table{
+    display: inline-block;
+    width: 80%;
+    font-size: 0;
+}
+
+.size-table ul{
+    display: inline-block;
+    width: 100%;
+}
+
+.size-table ul li{
+    display: inline-block;
+    width: 100%;
+}
+
+.size-table ul li:nth-child(odd) p{
+    background: #161616;
+}
+
+.size-table ul li p{
+    font-size: 1rem;
+    font-family: 'Gotham',sans-serif;
+    font-weight: lighter;
+    color: #ffffff;
+    width: 50%;
+    display: inline-block;
+    margin: 0;
+    padding: 10px 10px;
+}
+
+li.size-header p{
+    background: black !important;
+    border-bottom: 1px solid #282828;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+p.size-letter{
+    width: 20% !important;
+}
+
+.size-letter{
+    text-align: left;
+}
+
+.size-number{
+    text-align: right;
+}
+
+.Gallery{
+    background: rgba(0,0,0,.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: none;
+    z-index: 11;
+}
+
+.Gallery .Gallery-Holder{
+    width: 65vw;
+    position: fixed;
+    left: 50%;
+    top: 42%;
+    transform: translate(-50%,-50%);
+    padding-top: 50%;
+}
+
+.Gallery-Image{
+    display: inline-block;
+    width: 100%;
+    font-size: 0;
+    position: absolute;
+    left: 0;
+    top: 10vw;
+    height: 80%;
+    background: #ffffff;
+    padding: 20px;
+}
+
+.Gallery-Image .Main-Image{
+    /*display: inline-block;*/
+    /*width: 70%;*/
+    /*height: 100%;*/
+    /*vertical-align: top;*/
+    display: inline-block;
+    width: 70%;
+    height: 90%;
+    vertical-align: top;
+    /* margin-top: 5vh; */
+    position: relative;
+}
+
+.Gallery-Image .Side-Images{
+    /*display: inline-block;*/
+    /*width: 30%;*/
+    /*height: 100%;*/
+    /*padding: 20px;*/
+    /*vertical-align: top;*/
+    display: inline-block;
+    width: 21%;
+    height: 90%;
+    /* padding: 20px; */
+    vertical-align: top;
+    float: right;
+}
+
+
+.Gallery-Image .Side-Image{
+    /*display: inline-block;*/
+    /*width: 60%;*/
+    /*margin-bottom: 5px;*/
+    /*height: calc((100% - 20px) / 5);*/
+    display: inline-block;
+    width: 60%;
+    margin-bottom: 10px;
+    height: calc((100% - 40px) / 5);
+}
+
+.Main-Image,
+.Side-Image{
+    background: no-repeat center;
+    background-size: cover;
+}
+
+.navigation{
+    display: inline-block;
+    position: absolute;
+    bottom: -45px;
+    right: 0;
+}
+
+
+.prev-arrow,
+.next-arrow{
+    display: inline-block;
+    width: 100%;
+    cursor: pointer;
+}
+
+.prev-arrow p,
+.next-arrow p{
+    font-family: "Gotham", sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 5px;
+    color: #000000;
+}
+
+.prev-arrow{
+    background-color: #000000;
+}
+
+.prev-arrow p{
+    color: #FFFFFF;
+}
+
+.main-image-text{
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    bottom: -7%;
+}
+
+.main-image-text p{
+    font-family: "Gotham", sans-serif;
+    font-size: 0.87500rem;
+    line-height: 2rem;
+    color: #333333;
+    margin-bottom: 0;
+}
+
+.main-image-text p span{
+    display: inline-block;
+    font-weight: bold;
+}
+
+.main-image-text p span:last-child{
+    font-weight: inherit;
+}

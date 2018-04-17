@@ -394,7 +394,6 @@ body{
     border-left: 1px solid rgba(0,0,0,.1);
     background: transparent url('../Image/ls.arrow-right.svg') no-repeat center;
     background-size: auto .75em;
-    transition: all 250ms ease-in-out, border-color 100ms ease-in-out;
 }
 
 

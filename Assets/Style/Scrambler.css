@@ -1,0 +1,103 @@
+.scrambler-slider .slider-image{
+    background-position: center;
+}
+
+.scrambler-slider .owl-theme .owl-nav [class*=owl-next],
+.scrambler-slider .owl-theme .owl-nav [class*=owl-prev]{
+    background-color: #fcba47;
+}
+
+.scrambler-slider .outlaw-slider .owl-theme .owl-dots .owl-dot.active span,
+.scrambler-slider .outlaw-slider .owl-theme .owl-dots .owl-dot:hover span{
+    background: #fcba47;
+}
+
+.scrambler-slider .owl-theme .owl-dots .owl-dot.active span,
+.scrambler-slider .owl-theme .owl-dots .owl-dot:hover span{
+    background: #fcba47;
+}
+
+.scrambler-slider .owl-theme .owl-nav [class*=owl-]:hover{
+    background-color: #fcba47;
+}
+
+.scrambler-detail-image .bat-image{
+    background-image: url("../Image/Layer 1018.png");
+    background-size: 100%;
+}
+
+.scrambler-detail-image .perf-image{
+    background-image: url("../Image/Layer 1019.png");
+}
+
+.scrambler-detail .pointers span{
+    background-color: #fcba47;
+}
+
+.scrambler-detail .active-scrambler-pointer{
+    background-color: #fcba47;
+}
+
+.scrambler-detail .active-scrambler-pointer span{
+    background-color: #ffffff;
+}
+
+.scrambler-detail .first-pointer{
+    top: 45%;
+    left: 54.5%;
+}
+
+.scrambler-detail .second-pointer{
+    top: 31%;
+    left: 34%;
+}
+
+.scrambler-detail .third-pointer{
+    top: 59%;
+    left: 40%;
+}
+
+.scrambler-detail .fourth-pointer{
+    top: 48%;
+    left: 32%;
+}
+
+.scrambler-detail-image .detail-circle,
+.scrambler-eight .detail-circle{
+    background-color: #fcba47;
+}
+
+
+.scrambler-eight .detail-circle .detail-plus-2,
+.scrambler-eight .detail-circle .detail-plus-1{
+    background-color: #ffffff;
+}
+
+.scrambler-detail-block{
+    background-color: #111111;
+}
+
+.scrambler-detail-block p,
+.scrambler-detail-block h2{
+    color: #ffffff;
+}
+
+.scrambler-detail-block p{
+    font-weight: lighter;
+}
+
+.scrambler-eight{
+    background-color: #111111;
+}
+
+.scrambler-eight h2{
+    color: #ffffff;
+}
+
+.scrambler-eight .build-text{
+    color: #ffffff;
+}
+
+.right-build a{
+    text-decoration: none;
+}

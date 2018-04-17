@@ -1,0 +1,156 @@
+.shop-header .Container{
+    margin-top: 170px;
+}
+
+.shop-left-menu{
+    display: inline-block;
+    width: 100%;
+}
+
+.shop-left-menu ul{
+    display: block;
+    width: 100%;
+}
+
+.shop-left-menu ul li{
+    display: inline-block;
+    margin-right: 10px;
+    float: left;
+    vertical-align: middle;
+    transform: translate(-48px,0);
+}
+
+.shop-left-menu ul li a{
+    font-family: "Gotham Book", sans-serif;
+    color: #999999;
+    font-size: 0.875rem;
+    line-height: 2.5rem;
+    text-decoration: none;
+    padding: 0 10px;
+    border-right: 1px solid #cccccc;
+}
+
+.shop-left-menu ul li:last-child a{
+    border:none;
+}
+.shop-left-menu ul li .home-image{
+    padding: 7px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+}
+
+.shop-right-menu{
+    float: right;
+}
+
+.shop-right-menu{
+    display: block;
+    width: 100%;
+}
+
+.shop-right-menu ul{
+    display: block;
+    width: 100%;
+}
+
+.shop-right-menu ul li{
+    display: inline-block;
+    margin-left: 10%;
+    float: right;
+}
+
+.shop-right-menu ul li a{
+    font-family: "Gotham Book", sans-serif;
+    color: #666666;
+    font-size: 1rem;
+    line-height: 2.5rem;
+    text-decoration: none;
+}
+
+.shop-categories-title{
+    font-family: "Gotham Book", sans-serif;
+    font-size: 2.25rem;
+    color: #000000;
+    line-height: 2.5rem;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.shop-categories .owl-carousel{
+    border-top: 1px solid #161616;
+}
+
+.shop-accessories{
+    margin-top: 7vh;
+}
+
+.shop-accessories-main{
+    display: block;
+    width: 100%;
+    border-top: 1px solid #161616;
+}
+
+.shop-accessories-main .accessoris-image{
+    display: block;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 300px;
+}
+
+.shop-accessories-main .accessoris-image img{
+    width: 50%;
+    display: inline-block;
+}
+
+.shop-accessories-main .acessories-name{
+    display: inline-block;
+    width: 100%;
+    font-family: "Gotham Book", sans-serif;
+    font-weight: lighter;
+    font-size: 1.62500rem;
+    color: #000000;
+    height: 4.25rem;
+    max-height: 4.25rem;
+    overflow: hidden;
+
+}
+
+.shop-accessories-main .acessories-price{
+    display: inline-block;
+    width: 100%;
+    font-family: "Gotham Book", sans-serif;
+    font-weight: lighter;
+    font-size: 1rem;
+    color: #000000;
+}
+
+.accessories-container{
+    margin-top: 10vh;
+}
+
+.items-count{
+    color: #ff4949;
+    font-size: 1rem;
+    font-family: "Gotham", sans-serif;
+    font-weight: bold;
+    float: right;
+}
+
+.shop-apparel{
+    margin-bottom: 15vh;
+}
+
+.row.accessories-container{
+    position: relative;
+}
+
+.row.accessories-container a{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    top: 0;
+    left: 0;
+}

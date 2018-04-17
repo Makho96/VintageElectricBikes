@@ -393,7 +393,7 @@ body{
     top: 0;
     border-left: 1px solid rgba(0,0,0,.1);
     background: transparent url('../Image/ls.arrow-right.svg') no-repeat center;
-    background-size: auto .75em;
+    background-size: 0.75em;
 }
 
 

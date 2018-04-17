@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec3b8238-f376-4ab8-b677-ee416a8b8ef8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Style/Style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1785">
+              <caret line="105" column="1" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scrambler.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrambler.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6154">
+              <caret line="362" column="22" selection-start-line="362" selection-start-column="22" selection-end-line="362" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shop2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Shop2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3077">
+              <caret line="181" column="32" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopInside.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopInside.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Buy2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Buy2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1360">
+              <caret line="80" column="56" selection-start-line="80" selection-start-column="56" selection-end-line="80" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cruz.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cruz.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3383">
+              <caret line="199" column="14" selection-start-line="199" selection-start-column="14" selection-end-line="199" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Checkoutpre.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Checkoutpre.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Checkoutpre.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Style/Checkoutpre.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1309">
+              <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Responsive.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Style/Responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="426" column="5" lean-forward="true" selection-start-line="426" selection-start-column="5" selection-end-line="426" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>col-md-3 col-sm-3</find>
+      <find>rell</find>
+      <find>com-md-5</find>
+      <find>col-md-5 sub-form</find>
+      <find>nav-div</find>
+      <find>widt</find>
+      <find>sol</find>
+      <find>col-md-3 col-sm-6</find>
+      <find>.shop-accessories-main .accessoris-image</find>
+      <find>col-md-5 sub-form col-md-12</find>
+      <find>cruz</find>
+      <find>col-sm-8</find>
+      <find>col-xl-5 col-md-5 col-lg-5 col-sm-4 col-xs-3</find>
+      <find>col-xl-2 col-md-2 col-lg-2 col-sm-4 col-xs-6</find>
+      <find>owl-dot</find>
+      <find>detail-name</find>
+      <find>index-moto-image</find>
+      <find>Scrambler</find>
+      <find>768</find>
+      <find>collection</find>
+      <find>outlaw</find>
+      <find>.index-moto-image</find>
+      <find>min</find>
+      <find>scrollable</find>
+      <find>owl</find>
+      <find>item-box</find>
+      <find>col-sm-6</find>
+      <find>.bike-description h3</find>
+      <find>.bike-description ul</find>
+      <find>col-md-6</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;meta charset=&quot;UTF-8&quot;&gt;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;</replace>
+      <replace />
+      <replace>&lt;meta charset=&quot;UTF-8&quot;&gt;    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;</replace>
+      <replace>&lt;ul class=&quot;menu burger-menu&quot;&gt;</replace>
+      <replace>.menu</replace>
+      <replace>.men</replace>
+      <replace>&lt;div class=&quot;col-xl-2 col-md-2 col-lg-2 col-sm-4 col-xs-6 allign rellax not-scrollable&quot; data-rellax-speed=&quot;5&quot; &gt;</replace>
+      <replace>col-md-3 col-sm-3</replace>
+      <replace>col-md-3 col-sm-4</replace>
+      <replace>col-md-3 col-sm-6</replace>
+      <replace>col-md-5 sub-form col-md-12</replace>
+      <replace>col-md-3 col-sm-6 col-lg-3</replace>
+      <replace>col-md-5 sub-form col-sm-12</replace>
+      <replace>col-xl-2 col-md-2 col-lg-2 col-sm-4 col-6</replace>
+      <replace>col-xl-5 col-md-5 col-lg-5 col-sm-4 col-3</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GeoLab/Assets/Script/Script.js" />
+        <option value="$PROJECT_DIR$/GeoLab/Index.html" />
+        <option value="$PROJECT_DIR$/GeoLab/Assets/Style/Shop2.css" />
+        <option value="$PROJECT_DIR$/GeoLab/Assets/Style/Pay2.css" />
+        <option value="$PROJECT_DIR$/GeoLab/Pay2.html" />
+        <option value="$PROJECT_DIR$/../New Text Document.html" />
+        <option value="$PROJECT_DIR$/Assets/Style/shopInside.css" />
+        <option value="$PROJECT_DIR$/Assets/Style/Shop2.css" />
+        <option value="$PROJECT_DIR$/Assets/Style/Buy2.css" />
+        <option value="$PROJECT_DIR$/Assets/Style/Pay2.css" />
+        <option value="$PROJECT_DIR$/Pay2.html" />
+        <option value="$PROJECT_DIR$/shopInside.html" />
+        <option value="$PROJECT_DIR$/Assets/Style/Header.css" />
+        <option value="$PROJECT_DIR$/Buy2.html" />
+        <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$PROJECT_DIR$/Outlaw.html" />
+        <option value="$PROJECT_DIR$/Shop2.html" />
+        <option value="$PROJECT_DIR$/Scrambler.html" />
+        <option value="$PROJECT_DIR$/owl.html" />
+        <option value="$PROJECT_DIR$/dasdas.html" />
+        <option value="$PROJECT_DIR$/Assets/Script/Script.js" />
+        <option value="$PROJECT_DIR$/adasdf.html" />
+        <option value="$PROJECT_DIR$/Cruz.html" />
+        <option value="$PROJECT_DIR$/Assets/Style/Style.css" />
+        <option value="$PROJECT_DIR$/Assets/Style/Checkoutpre.css" />
+        <option value="$PROJECT_DIR$/Checkoutpre.html" />
+        <option value="$PROJECT_DIR$/Assets/Style/Responsive.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="292" />
+    <option name="y" value="100" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GeoLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeoLab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GeoLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GeoLab" type="462c0819:PsiDirectoryNode" />
+              <item name="Assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vueTest" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Makho\Desktop\GeoLab\GeoLab" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec3b8238-f376-4ab8-b677-ee416a8b8ef8" name="Default" comment="" />
+      <created>1520261212384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520261212384</updated>
+      <workItem from="1520261229203" duration="5342000" />
+      <workItem from="1520314529746" duration="15046000" />
+      <workItem from="1520400284003" duration="181000" />
+      <workItem from="1520416053223" duration="11538000" />
+      <workItem from="1520572135168" duration="15442000" />
+      <workItem from="1520595689992" duration="5086000" />
+      <workItem from="1520790977379" duration="3485000" />
+      <workItem from="1520840176479" duration="10907000" />
+      <workItem from="1520922325969" duration="28227000" />
+      <workItem from="1521040728994" duration="8078000" />
+      <workItem from="1521184256467" duration="9347000" />
+      <workItem from="1521442345700" duration="15143000" />
+      <workItem from="1521469344339" duration="2376000" />
+      <workItem from="1521523568836" duration="13733000" />
+      <workItem from="1521610577859" duration="15114000" />
+      <workItem from="1521699296088" duration="1693000" />
+      <workItem from="1521701644041" duration="21877000" />
+      <workItem from="1522041286844" duration="6509000" />
+      <workItem from="1522131130743" duration="74000" />
+      <workItem from="1522131480165" duration="1826000" />
+      <workItem from="1522218923027" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="191642000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13511905" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Checkoutpre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Checkoutpre.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7242">
+          <caret line="426" column="5" lean-forward="true" selection-start-line="426" selection-start-column="5" selection-end-line="426" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buy2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="112" selection-start-line="94" selection-start-column="106" selection-end-line="94" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Buy2.css" />
+    <entry file="file://$PROJECT_DIR$/Pay2.html" />
+    <entry file="file://$PROJECT_DIR$/Shop2.html" />
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Pay2.css" />
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Style.css" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Script.js" />
+    <entry file="file://$PROJECT_DIR$/Pay2.html" />
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Buy2.css" />
+    <entry file="file://$PROJECT_DIR$/Shop2.html" />
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Pay2.css" />
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Style.css" />
+    <entry file="file://$PROJECT_DIR$/Pay2.html" />
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Buy2.css" />
+    <entry file="file://$PROJECT_DIR$/Shop2.html" />
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Pay2.css" />
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Style.css" />
+    <entry file="file://$PROJECT_DIR$/GeoLab/Assets/Script/Script.js" />
+    <entry file="file://$PROJECT_DIR$/GeoLab/Index.html" />
+    <entry file="file://$PROJECT_DIR$/GeoLab/Assets/Style/Shop2.css" />
+    <entry file="file://$PROJECT_DIR$/GeoLab/Assets/Style/Pay2.css" />
+    <entry file="file://$PROJECT_DIR$/GeoLab/Shop2.html" />
+    <entry file="file://$PROJECT_DIR$/GeoLab/Checkoutpre.html" />
+    <entry file="file://$PROJECT_DIR$/GeoLab/Pay2.html" />
+    <entry file="file://$PROJECT_DIR$/../New Text Document.html" />
+    <entry file="file://$PROJECT_DIR$/Assets/Style/shopInside.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="453" column="25" selection-start-line="453" selection-start-column="25" selection-end-line="453" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Shop2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Buy2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="781">
+          <caret line="232" column="23" selection-start-line="232" selection-start-column="23" selection-end-line="232" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Pay2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Outlaw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="380" column="35" selection-start-line="380" selection-start-column="35" selection-end-line="380" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pay2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="191" column="29" selection-start-line="191" selection-start-column="28" selection-end-line="191" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/owl.html" />
+    <entry file="file://$PROJECT_DIR$/dasdas.html" />
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adasdf.html" />
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="105" column="1" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrambler.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6154">
+          <caret line="362" column="22" selection-start-line="362" selection-start-column="22" selection-end-line="362" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shop2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="181" column="32" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopInside.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="52" selection-start-line="44" selection-start-column="52" selection-end-line="44" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buy2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="56" selection-start-line="80" selection-start-column="56" selection-end-line="80" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cruz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3383">
+          <caret line="199" column="14" selection-start-line="199" selection-start-column="14" selection-end-line="199" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Checkoutpre.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Checkoutpre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="41" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Style/Responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="426" column="5" lean-forward="true" selection-start-line="426" selection-start-column="5" selection-end-line="426" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
